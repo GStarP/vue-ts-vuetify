@@ -10,8 +10,8 @@
 
 ## TODO
 
-- [] network request support
-- [] improve directory structure
+- [ ] network request support
+- [ ] improve directory structure
 
 ## Commands
 
