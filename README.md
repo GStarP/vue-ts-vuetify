@@ -2,16 +2,17 @@
 
 ## Features
 
-- Develop Framework: Vue 2 + Vue-Router + Vuex
+- Develop Framework: Vue 2 + Vue Router + Vuex
 - UI Framework: Vuetify
-- Type Check: Typescript
+- Type Check: TypeScript
 - Code Style: ESlint
-- Pre-commit Check: Husky
+- Pre-commit Check: husky
+- Network Request: axios
 
-## TODO
+## TODOs
 
-- [ ] network request support
 - [ ] improve directory structure
+- [ ] element-like notify&confirm
 
 ## Commands
 
