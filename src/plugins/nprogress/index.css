@@ -1,0 +1,6 @@
+/**
+ * overwrite nprogress original style
+ */
+#nprogress .bar {
+  height: 4px;
+}

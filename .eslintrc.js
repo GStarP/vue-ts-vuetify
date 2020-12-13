@@ -13,5 +13,8 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 2020
   },
-  rules: {}
+  rules: {
+    "@typescript-eslint/no-explicit-any": "off",
+    "@typescript-eslint/no-unused-vars": "off"
+  }
 };

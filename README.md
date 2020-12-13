@@ -2,14 +2,15 @@
 
 ## Features
 
-| Feature           | Package                   |
-| ----------------- | ------------------------- |
-| Develop Framework | Vue 2 + Vue Router + Vuex |
-| UI Framework      | Vuetify                   |
-| Type Check        | TypeScript                |
-| Code Style        | ESlint                    |
-| Pre-commit Check  | husky                     |
-| Network Request   | axios                     |
+| Feature             | Package                   |
+| ------------------- | ------------------------- |
+| Develop Framework   | vue 2 + vue-router + vuex |
+| UI Framework        | vuetify                   |
+| Type Check          | typescript                |
+| Code Style          | eslint                    |
+| Pre-commit Check    | husky                     |
+| Network Request     | axios                     |
+| Global Progress Bar | nprogress                 |
 
 ## TODOs
 

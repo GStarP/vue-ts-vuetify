@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar app color="primary" dark>
+    <v-app-bar app dark>
       <v-btn
         href="https://github.com/vuetifyjs/vuetify/releases/latest"
         target="_blank"
@@ -17,6 +17,9 @@
 import Vue from "vue";
 
 export default Vue.extend({
-  name: "App"
+  name: "App",
+  mounted() {
+    this.$np.start();
+  }
 });
 </script>
